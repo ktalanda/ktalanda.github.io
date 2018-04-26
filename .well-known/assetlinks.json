@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "au.com.wgtech.uat",
+    "sha256_cert_fingerprints":
+    ["57:01:E3:AD:06:55:20:59:2D:CB:BF:71:45:71:1B:46:7D:9C:B5:51:E0:AB:1B:F4:50:A9:82:FA:C9:B6:BD:12"]
+  }
+}]
