@@ -13,3 +13,7 @@ function openLinkedIn() {
 function openGooglePlus() {
     window.open('https://plus.google.com/108966975545999751778');
 }
+
+function openMedium() {
+    window.open('https://medium.com/@ktalanda');
+}
