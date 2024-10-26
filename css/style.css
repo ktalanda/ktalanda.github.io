@@ -1,7 +1,15 @@
 ﻿/* [ GENERAL ] */
 /*================================================== */
 
+.link-icon {
+  font-size: xxx-large;
+  margin: 10px;
+  color: #fff;
+}
 
+.link-icon:hover {
+  color: #007bff;
+}
 body,
 html {
   font-size: 100%;
